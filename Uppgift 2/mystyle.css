@@ -6,4 +6,19 @@ body {
   h1 {
     color: rgb(175, 48, 158);
     margin-left: 20px;
+    font: 22px arial, sans-serif;
+  }
+
+  .program{
+    color: darkslategray;
+    background-color: rgb(118, 124, 124);
+    text-align: center;
+  }
+
+  .toughts{
+    text-align: right;
+  }
+
+  .myself{
+    outline-style: double;
   }
