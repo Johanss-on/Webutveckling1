@@ -22,3 +22,5 @@ body {
   .myself{
     outline-style: double;
   }
+  
+  a{text-decoration: none;}
