@@ -1,1 +1,18 @@
 table, th, td{border: 1px solid black; border-collapse: collapse;}
+.cpus{
+    width: 500px;
+    height: fit-content;}
+.cpus tr:nth-child(odd){
+    background-color: red;}
+.cpus tr:nth-child(even){
+    background-color: yellow;}
+.cpus tr:nth-child(1){
+    background-color: white;}
+.cpus td:nth-child(4), .cpus th:nth-child(4){
+    text-align: right;}
+.cpus td:nth-child(2), .cpus td:nth-child(3), cpus th:nth-child(2), .cpus th:nth-child(3) {
+    text-align: center;}
+.colored{
+        width: 500px;
+        height: 400px;}
+
