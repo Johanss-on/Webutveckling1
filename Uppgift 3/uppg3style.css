@@ -3,16 +3,24 @@ table, th, td{border: 1px solid black; border-collapse: collapse;}
     width: 500px;
     height: fit-content;}
 .cpus tr:nth-child(odd){
-    background-color: red;}
+    background-color: #cc0000;}
 .cpus tr:nth-child(even){
-    background-color: yellow;}
+    background-color: #f1c232;}
 .cpus tr:nth-child(1){
-    background-color: white;}
+    background-color: #efefef;}
 .cpus td:nth-child(4), .cpus th:nth-child(4){
     text-align: right;}
 .cpus td:nth-child(2), .cpus td:nth-child(3), cpus th:nth-child(2), .cpus th:nth-child(3) {
     text-align: center;}
-.colored{
+
+
+    .colored{
         width: 500px;
         height: 400px;}
-
+    .first{
+    background-color:#4a86e8;}
+    .second{
+        background-color: #cc0000;}
+    .fourth{background-color: #ffff00;}
+    .fifth{background-color: black;}
+    .seventh{background-color: #00ff00;}
